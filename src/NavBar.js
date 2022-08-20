@@ -5,10 +5,10 @@ const NavBar = () => {
     return ( 
         <nav>
             <div className="navbar">
-                <Link>
+                <Link to="/">
                 <img src={logo} alt="" />
                 </Link>
-                <Link>
+                <Link to="/">
                 <div className="icon"></div>
                 </Link>
             </div>
