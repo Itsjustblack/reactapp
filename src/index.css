@@ -21,7 +21,7 @@ html{
   font-size: 62.5%;
 }
 body {
-  background-color: #fcd750;
+  /* background-color: #fcd750; */
   font-family: 'opensans';
   margin: 0;
   /* font-size: 1rem;
@@ -29,20 +29,23 @@ body {
 }
 /* NavBar styles */
 .navbar{
-  background-color: #fcd750;
+  background-color: rgb(212, 212, 212);
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   position: fixed;
   /* top: 0; */
   width: 100%;
-  padding: 1.5rem 0;
+  padding: 1.6rem 0;
+}
+.navbar .logo{
+  list-style: none;
 }
 .navbar img{
   object-fit: cover;
+  max-width: 100%;
   width: 130px;
-  height: auto;
-  padding-left: 2rem;
+  margin-left: 1rem;
 }
 .navbar .icon{
   width: 30px;
@@ -51,25 +54,32 @@ body {
   margin-right: 3rem;
 }
 /* Home Styles */
-section{
+.section{
+  padding-top: 4.8rem;
+  padding-bottom: 3.2rem;
+}
+/* Hero Section*/
+.section-hero{
+  background-color: #fcd750;
   text-align: center;
+  padding-top: 8rem;
+  padding-bottom: 3.2rem;
 }
 .hero-message{
   text-transform: uppercase;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 100px;
 }
 .label{
-  width: 60vw;
   font-size: 1.5rem;
   text-align: center;
   background-color: #2d2c4c;
   color: #fff;
   margin-bottom: 3rem;
-  padding: 0.2rem 0;
+  padding: 0.2rem 1rem;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 .hero-message h1{
   font-family: "Hanken book";
@@ -88,9 +98,9 @@ section{
   width: 100%;
   margin-bottom: 3.2rem;
 }
-.section-hero .subtitle{
-  font-size: 1.5rem;
-  font-weight:bold;
+.subtitle{ /*section hero*/
+  font-size: 2.5rem;
+  font-weight: 600;
   line-height: 1.5;
   text-align: center;
   padding: 0 3rem;
@@ -117,7 +127,7 @@ section{
   letter-spacing: 1.5px;
   padding-bottom: 0.5rem;
 }
-.item p{
+p{ /* .item */
   color: #2d2c4c;
   font-size: 1.5rem;
   line-height: 1.5;
@@ -134,4 +144,46 @@ section{
   text-transform: uppercase;
   letter-spacing: 1px;
   cursor: pointer;
+}
+/* Process Section */
+.process-section{
+  background-color: white;
+  color: #2d2c4c;
+}
+.container{
+  padding: 0 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content img{
+  width: 23%;
+  margin-bottom: 3.2rem;
+}
+.section-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.label1{ /* create joint styles for label and label1 */
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #2d2c4c;
+    color: #fff;
+    margin-bottom: 3.2rem;
+    padding: 0.2rem 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    width: 30vw;
+}
+h2{
+  font-family: "hanken book";
+  font-size: 4rem;
+  text-transform: uppercase;
+  font-weight: 400;
 }
