@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.315e103e.css",
+    "main.js": "/reactapp/static/js/main.fd9f181f.js",
+    "static/js/787.af3d1c2a.chunk.js": "/reactapp/static/js/787.af3d1c2a.chunk.js",
+    "static/media/brilworx-guy-open-mouth-b-min.png": "/reactapp/static/media/brilworx-guy-open-mouth-b-min.6ef2289056f3eaf131d3.png",
+    "static/media/opensans-bold-webfont.woff": "/reactapp/static/media/opensans-bold-webfont.bb66f9c66b82c484da61.woff",
+    "static/media/opensans-regular-webfont.woff2": "/reactapp/static/media/opensans-regular-webfont.118277eeb8add08e95ed.woff2",
+    "static/media/brilworx-logo-min.svg": "/reactapp/static/media/brilworx-logo-min.ac335a2bb60298f2c25c0ff62b7805eb.svg",
+    "static/media/icon2.svg": "/reactapp/static/media/icon2.0e9ea8a5cd3dcdcadb579e4ec8a71673.svg",
+    "static/media/icon1.svg": "/reactapp/static/media/icon1.7f6062a4eac85ac732b9fa21f357e7f0.svg",
+    "static/media/icon3.svg": "/reactapp/static/media/icon3.dd88410dc57559e6c67d2ac13f090179.svg",
+    "index.html": "/reactapp/index.html",
+    "static/media/desktop-icon.svg": "/reactapp/static/media/desktop-icon.ffa489a92741b392150f6d997f8597df.svg",
+    "static/media/laptop-icon.svg": "/reactapp/static/media/laptop-icon.d79db2873ac086e05e1c9dfdcafd7d69.svg",
+    "static/media/bars-solid.svg": "/reactapp/static/media/bars-solid.cc422b9702b29002bb1a1f973c66332a.svg",
+    "static/media/phone-icon.svg": "/reactapp/static/media/phone-icon.47700dc4dd810a09e59a10b4c83f2131.svg",
+    "static/media/icon4.svg": "/reactapp/static/media/icon4.a2d650236d3cf286ff234dbac24e616a.svg",
+    "main.315e103e.css.map": "/reactapp/static/css/main.315e103e.css.map",
+    "main.fd9f181f.js.map": "/reactapp/static/js/main.fd9f181f.js.map",
+    "787.af3d1c2a.chunk.js.map": "/reactapp/static/js/787.af3d1c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.315e103e.css",
+    "static/js/main.fd9f181f.js"
+  ]
+}
