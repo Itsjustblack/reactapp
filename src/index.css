@@ -11,11 +11,18 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Hanken';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/590d9229b4700605d36b8ed3/590d9229b4700605d36b8f25_Hanken-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
 /* font: Hanken book */
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 html{
   font-size: 62.5%;
@@ -24,12 +31,10 @@ body {
   /* background-color: #fcd750; */
   font-family: 'opensans';
   margin: 0;
-  /* font-size: 1rem;
-  line-height: 1.5em; */
 }
 /* NavBar styles */
 .navbar{
-  background-color: rgb(212, 212, 212);
+  background-color: #fcd750;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -38,152 +43,13 @@ body {
   width: 100%;
   padding: 1.6rem 0;
 }
-.navbar .logo{
-  list-style: none;
-}
-.navbar img{
+.logo{
   object-fit: cover;
   max-width: 100%;
   width: 130px;
-  margin-left: 1rem;
 }
-.navbar .icon{
+.nav-icon{
   width: 30px;
-  height: 30px;
-  background-color: #2d2c4c;
-  margin-right: 3rem;
-}
-/* Home Styles */
-.section{
-  padding-top: 4.8rem;
-  padding-bottom: 3.2rem;
-}
-/* Hero Section*/
-.section-hero{
-  background-color: #fcd750;
-  text-align: center;
-  padding-top: 8rem;
-  padding-bottom: 3.2rem;
-}
-.hero-message{
-  text-transform: uppercase;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.label{
-  font-size: 1.5rem;
-  text-align: center;
-  background-color: #2d2c4c;
-  color: #fff;
-  margin-bottom: 3rem;
-  padding: 0.2rem 1rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-.hero-message h1{
-  font-family: "Hanken book";
-  font-size: 4rem;
-  line-height: 1.2;
-  text-align: center;
+  margin-right: 1.6rem;
   color: #2d2c4c;
-  letter-spacing: 1.5px;
-  margin-bottom: 3rem;
-  font-weight: 100;
-}
-.smile{
-  margin: 0 3rem;
-}
-.smile img{
-  width: 100%;
-  margin-bottom: 3.2rem;
-}
-.subtitle{ /*section hero*/
-  font-size: 2.5rem;
-  font-weight: 600;
-  line-height: 1.5;
-  text-align: center;
-  padding: 0 3rem;
-  color: #2d2c4c;
-  margin-bottom: 4.5rem;
-}
-.items{
-  padding: 0 2rem;
-}
-.item{
-  margin-bottom: 2.5rem;
-}
-.item img{
-  width: 16%;
-  height: 66px;
-  margin-bottom: 2rem
-}
-.item .title{
-  font-family: "hanken book";
-  font-size: 1.6rem;
-  font-weight: 100;
-  color: #20a5e6;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  padding-bottom: 0.5rem;
-}
-p{ /* .item */
-  color: #2d2c4c;
-  font-size: 1.5rem;
-  line-height: 1.5;
-  margin-bottom: 3rem;
-}
-.item button{
-  font-family: "hanken book";
-  border-radius: 3px;
-  font-size: 1rem;
-  border: 0;
-  background-color: #20a5e6;
-  color: #fff;
-  padding: 1rem 1.2rem ;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  cursor: pointer;
-}
-/* Process Section */
-.process-section{
-  background-color: white;
-  color: #2d2c4c;
-}
-.container{
-  padding: 0 1.2rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.content{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.content img{
-  width: 23%;
-  margin-bottom: 3.2rem;
-}
-.section-header{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.label1{ /* create joint styles for label and label1 */
-    font-size: 1.5rem;
-    text-align: center;
-    background-color: #2d2c4c;
-    color: #fff;
-    margin-bottom: 3.2rem;
-    padding: 0.2rem 0;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    width: 30vw;
-}
-h2{
-  font-family: "hanken book";
-  font-size: 4rem;
-  text-transform: uppercase;
-  font-weight: 400;
 }
