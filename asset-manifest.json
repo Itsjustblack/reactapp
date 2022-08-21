@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.314d464e.css",
-    "main.js": "/reactapp/static/js/main.047f4291.js",
+    "main.css": "/reactapp/static/css/main.fbbb91f0.css",
+    "main.js": "/reactapp/static/js/main.326f95b9.js",
     "static/js/787.af3d1c2a.chunk.js": "/reactapp/static/js/787.af3d1c2a.chunk.js",
     "static/media/brilworx-guy-open-mouth-b-min.png": "/reactapp/static/media/brilworx-guy-open-mouth-b-min.6ef2289056f3eaf131d3.png",
     "static/media/opensans-bold-webfont.woff": "/reactapp/static/media/opensans-bold-webfont.bb66f9c66b82c484da61.woff",
@@ -17,12 +17,12 @@
     "static/media/about-icon.svg": "/reactapp/static/media/about-icon.7130ae73d180dfd7e1cd18a96b4060af.svg",
     "static/media/phone-icon.svg": "/reactapp/static/media/phone-icon.47700dc4dd810a09e59a10b4c83f2131.svg",
     "static/media/icon4.svg": "/reactapp/static/media/icon4.a2d650236d3cf286ff234dbac24e616a.svg",
-    "main.314d464e.css.map": "/reactapp/static/css/main.314d464e.css.map",
-    "main.047f4291.js.map": "/reactapp/static/js/main.047f4291.js.map",
+    "main.fbbb91f0.css.map": "/reactapp/static/css/main.fbbb91f0.css.map",
+    "main.326f95b9.js.map": "/reactapp/static/js/main.326f95b9.js.map",
     "787.af3d1c2a.chunk.js.map": "/reactapp/static/js/787.af3d1c2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.314d464e.css",
-    "static/js/main.047f4291.js"
+    "static/css/main.fbbb91f0.css",
+    "static/js/main.326f95b9.js"
   ]
 }
