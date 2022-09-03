@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.315cbb4d.css",
-    "main.js": "/reactapp/static/js/main.93dab09d.js",
+    "main.css": "/reactapp/static/css/main.1396e26c.css",
+    "main.js": "/reactapp/static/js/main.bdf96760.js",
     "static/js/787.af3d1c2a.chunk.js": "/reactapp/static/js/787.af3d1c2a.chunk.js",
+    "static/media/staride-alley-image.jpg": "/reactapp/static/media/staride-alley-image.96d0298a1e4840f9e66e.jpg",
+    "static/media/kree8-image.jpg": "/reactapp/static/media/kree8-image.1047f3d0398a2913617a.jpg",
     "static/media/brilworx-guy-open-mouth-b-min.png": "/reactapp/static/media/brilworx-guy-open-mouth-b-min.6ef2289056f3eaf131d3.png",
     "static/media/opensans-bold-webfont.woff": "/reactapp/static/media/opensans-bold-webfont.bb66f9c66b82c484da61.woff",
     "static/media/opensans-regular-webfont.woff2": "/reactapp/static/media/opensans-regular-webfont.118277eeb8add08e95ed.woff2",
+    "static/media/acunov-image.jpg": "/reactapp/static/media/acunov-image.837c1fc5712e9183a101.jpg",
+    "static/media/reach87-image.jpg": "/reactapp/static/media/reach87-image.327cba93462cbde0e174.jpg",
     "static/media/brilworx-logo-min.svg": "/reactapp/static/media/brilworx-logo-min.ac335a2bb60298f2c25c0ff62b7805eb.svg",
+    "static/media/multiple-device-icon.svg": "/reactapp/static/media/multiple-device-icon.e7645cd378be85989be18674744b616f.svg",
     "static/media/icon3.svg": "/reactapp/static/media/icon3.0e9ea8a5cd3dcdcadb579e4ec8a71673.svg",
     "static/media/social_g+.svg": "/reactapp/static/media/social_g+.4e7c22f6adb078574044ec75817d2329.svg",
     "static/media/social_tw.svg": "/reactapp/static/media/social_tw.4a10fab58d005fff19415fd6f6a7195e.svg",
     "static/media/icon1.svg": "/reactapp/static/media/icon1.7f6062a4eac85ac732b9fa21f357e7f0.svg",
     "static/media/social_ig.svg": "/reactapp/static/media/social_ig.2bf2444ba6b4d21dce851ba0f2dc8db3.svg",
+    "static/media/desktop-icon-1.svg": "/reactapp/static/media/desktop-icon-1.87cdd049dbddc3692f365f2db2355bee.svg",
+    "static/media/desktop-search-icon.svg": "/reactapp/static/media/desktop-search-icon.c9d05b97017d3f17d31caf16f3374427.svg",
     "static/media/social_in.svg": "/reactapp/static/media/social_in.fe1c926f901863c592733d0c2ca81e3b.svg",
+    "static/media/desktop-icon-code.svg": "/reactapp/static/media/desktop-icon-code.31429df5eccd122ac421743a3b54e7f6.svg",
     "static/media/icon2.svg": "/reactapp/static/media/icon2.dd88410dc57559e6c67d2ac13f090179.svg",
     "static/media/social_yt.svg": "/reactapp/static/media/social_yt.1b1c8ea8c07f9a6aa638204de7490297.svg",
     "static/media/social_fb.svg": "/reactapp/static/media/social_fb.9834fa1ada6675fcb890ac40e72f8d60.svg",
@@ -23,12 +31,12 @@
     "static/media/about-icon.svg": "/reactapp/static/media/about-icon.7130ae73d180dfd7e1cd18a96b4060af.svg",
     "static/media/phone-icon.svg": "/reactapp/static/media/phone-icon.47700dc4dd810a09e59a10b4c83f2131.svg",
     "static/media/icon4.svg": "/reactapp/static/media/icon4.a2d650236d3cf286ff234dbac24e616a.svg",
-    "main.315cbb4d.css.map": "/reactapp/static/css/main.315cbb4d.css.map",
-    "main.93dab09d.js.map": "/reactapp/static/js/main.93dab09d.js.map",
+    "main.1396e26c.css.map": "/reactapp/static/css/main.1396e26c.css.map",
+    "main.bdf96760.js.map": "/reactapp/static/js/main.bdf96760.js.map",
     "787.af3d1c2a.chunk.js.map": "/reactapp/static/js/787.af3d1c2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.315cbb4d.css",
-    "static/js/main.93dab09d.js"
+    "static/css/main.1396e26c.css",
+    "static/js/main.bdf96760.js"
   ]
 }
